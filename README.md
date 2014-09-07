@@ -8,4 +8,5 @@ My personal list of PHP Frameworks to try
 <li>Yii</li>
 <li>CakePHP</li>
 <li>CodeIgniter</li>
+<li>Phalcon</li>
 </ul>
