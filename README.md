@@ -2,7 +2,6 @@ PHP-Frameworks
 ==============
 
 My personal list of PHP Frameworks to try
-<br><br>
 <ul>
 <li>Laravel</li>
 <li>Symfony</li>
